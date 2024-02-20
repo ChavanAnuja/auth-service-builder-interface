@@ -110,7 +110,5 @@ public class UserManagementServiceImpl implements UserManagementService{
 		return null;
 	}
 
-	
-	
 
 }
